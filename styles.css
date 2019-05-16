@@ -100,6 +100,23 @@ li img{
   background: #020202;
 }
 
+.container1{
+  width: 90%;
+  height: 200%;
+  border: 2px solid black;
+}
+
+.container1{
+  position: relative;
+  left: 5%;
+}
+
+.container1:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  }
+  
 .cards {
     width: 100%;
     display: flex;
