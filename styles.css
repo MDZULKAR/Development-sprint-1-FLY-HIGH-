@@ -117,11 +117,6 @@ li img{
     box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
   }
 
-  .video{
-    position: relative;
-    left: 5%;
-  }
-
 .cards {
     width: 100%;
     display: flex;
