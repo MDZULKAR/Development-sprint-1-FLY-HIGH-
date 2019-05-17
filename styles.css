@@ -108,13 +108,18 @@ li img{
 
 .container1{
   position: relative;
-  left: 5%;
+  left: 8%;
 }
 
 .container1:hover{
     -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
     -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
     box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  }
+
+  .video{
+    position: relative;
+    left: 5%;
   }
 
 .cards {
@@ -287,4 +292,15 @@ input[type=text] {
   vertical-align: middle;
   padding: 20px;
   margin-bottom: 0px;
+}
+.vd {
+  margin:auto;
+}
+.media{
+  margin: 30%;
+}
+
+.media{
+  position: relative;
+  top: -80%
 }
