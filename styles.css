@@ -242,7 +242,7 @@ border-bottom-right-radius: 12px;
 .card:hover .card__info-hover {
     opacity: 1;
 }
-/* Style the search box inside the navigation bar */
+
 input[type=text] {
   padding: 6px;
   border: none;
