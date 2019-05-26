@@ -13,6 +13,14 @@ height: 100%;
     padding: 0;
 }
 
+.col-4-lg {
+  margin-top: 5%;
+  transition: margin-top 500ms;
+}
+.col-4-lg:hover {
+  margin-top: 4%;
+}
+
 body {
   background-color: #D2DBDD;
   display: flex;
