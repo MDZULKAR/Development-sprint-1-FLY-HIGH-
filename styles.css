@@ -625,6 +625,11 @@ hr {
   padding-right: 25px;
 }
 
+.button22{
+  text-decoration-color: red;
+  color: red;
+}
+
 .button22:hover span:after {
   opacity: 1;
   right: 0;
@@ -640,12 +645,12 @@ hr {
   border: none;
   outline: none;
   background-color: red;
-  color: white;
+  color: red;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #FF0000;
 }
