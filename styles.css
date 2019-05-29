@@ -35,7 +35,7 @@
 #cssmenu > ul > li {
 }
 li img{
-  height: 60px;
+  height: 85px;
 }
 .menulist{
   max-width: 250px;
@@ -63,7 +63,7 @@ li img{
   font-weight: 400;
   text-decoration: none;
   color: #444444;
-    margin-top: 5px;
+    margin-top: 20px;
     margin-left: 30px;
   -webkit-transition: all .2s ease;
   -moz-transition: all .2s ease;
@@ -164,6 +164,9 @@ border-top-right-radius: 12px;
   width: 100%;
   opacity: 0;
   top: 0;
+}
+.card-img-top{
+	height: 460px;
 }
 
 .card__img--hover {
@@ -270,7 +273,7 @@ input[type=text] {
     box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
 }
 .middle{
-  height: 400px;
+  height: 350px;
 }
 .footer{
   background: #000;
