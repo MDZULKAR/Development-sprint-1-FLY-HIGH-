@@ -653,3 +653,11 @@ hr {
 #myBtn:hover {
   background-color: #000000;
 }
+
+.d iframe{
+  width: 800px;
+  height: 500px;
+  margin-top: -220px;
+  margin-left: 560px;
+  margin-bottom: 0px;
+}
